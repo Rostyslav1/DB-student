@@ -1,0 +1,55 @@
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Student DB.dll.config
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Student DB.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Student DB.pdb
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Antlr3.Runtime.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\EntityFramework.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\EntityFramework.SqlServer.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.Google.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Newtonsoft.Json.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Owin.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.Helpers.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.Mvc.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.Optimization.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.Razor.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.WebPages.Deployment.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.WebPages.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.WebPages.Razor.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\WebGrease.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.Helpers.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.Mvc.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.Optimization.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.Razor.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.WebPages.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.WebPages.Deployment.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\System.Web.WebPages.Razor.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Antlr3.Runtime.pdb
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Newtonsoft.Json.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\EntityFramework.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\EntityFramework.SqlServer.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.Google.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\obj\Debug\Student DB.csprojResolveAssemblyReference.cache
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\obj\Debug\Student DB.dll
+c:\users\rgany\documents\visual studio 2013\Projects\Student DB\Student DB\obj\Debug\Student DB.pdb
